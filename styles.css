@@ -1,0 +1,59 @@
+/* CSS Styling for the webpage */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #F44336;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #FF0000;
+    overflow: hidden;
+  }
+  
+  nav a {
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .advert-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #FF0000;
+    border: 1px solid #ddd;
+  }
+  
+  .advert {
+    font-size: 34px;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .home-content {
+    background-color: #FF0000;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .about-content {
+    background-color: #FF0000;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .contact-content {
+    background-color: #FF0000;
+    padding: 50px;
+    text-align: center;
+  }
+  
